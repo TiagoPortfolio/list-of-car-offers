@@ -1,4 +1,4 @@
-# [List of Cars Offers](https://tiagoportfolio.github.io/list-of-car-offers/)
+# [List of Cas Offers](https://tiagoportfolio.github.io/list-of-car-offers/)
 
 Deployed at https://tiagoportfolio.github.io/list-of-car-offers/
 
